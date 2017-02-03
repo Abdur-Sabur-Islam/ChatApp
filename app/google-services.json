@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "766652382305",
+    "firebase_url": "https://chatapp-937fc.firebaseio.com",
+    "project_id": "chatapp-937fc",
+    "storage_bucket": "chatapp-937fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766652382305:android:b39a490bdd0034d9",
+        "android_client_info": {
+          "package_name": "com.movieapps.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766652382305-qak02qn5bn1es0pll0p59njik2hhi056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdROcLC6z-SMxcd89C8ii4nyHgHPseh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
